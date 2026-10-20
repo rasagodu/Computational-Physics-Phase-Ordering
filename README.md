@@ -27,13 +27,6 @@ The project discusses two important models of domain evolution:
 
 **Conserved dynamics:** Described by the Cahn–Hilliard equation, where domain growth occurs through diffusion of the conserved order parameter.
 
-## Repository Structure
-
-- `theory/` — Theoretical notes and equations
-- `src/` — Simulation code and numerical methods
-- `notebooks/` — Computational experiments and analysis
-- `results/` — Figures and simulation outputs
-
 ## References
 
 Bray, A. J. (1994). *Theory of phase-ordering kinetics*. Advances in Physics, 43(3), 357–459.
